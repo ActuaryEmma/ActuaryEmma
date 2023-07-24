@@ -1,6 +1,6 @@
 ### Hey, I'm Emma!👋
 
- I am a software developer. My stack:JavaScript , Ruby ,HTML and CSS
+ I am a software developer. My stack:Python, JavaScript , Ruby ,HTML and CSS
 
 <!--
 **ActuaryEmma/ActuaryEmma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
